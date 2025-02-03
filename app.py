@@ -8,7 +8,7 @@ import streamlit as st
 @st.cache_data
 def fetch_data():
     html = requests.get("https://statisticstimes.com/tech/top-computer-languages.php").content
-    soup = BeautifulSoup(html, 'html5lib')
+    soup = BeautifulSoup(html, 'html.parser')
     tabela = soup.find('table', {'id': 'table_id1'}).find('tbody')
     linhas = tabela.find_all('tr')
     
