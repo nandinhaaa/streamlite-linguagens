@@ -67,11 +67,16 @@ O projeto rodará em: **[http://localhost:8501](http://localhost:8501)**
 ## 📸 Exemplos de Visualização
 
 * **Tabela de Dados**
-* **Gráfico de Linha**
-* **Gráfico de Barras**
-* **Top 3 - Gráfico de Pizza**
+ <img width="1922" height="856" alt="image" src="https://github.com/user-attachments/assets/bc2724ec-eca5-4f93-9dfe-a5442ad610ab" />
 
-*(adicione aqui prints da aplicação para deixar o README mais atrativo!)*
+* **Gráfico de Linha**
+ <img width="1892" height="822" alt="image" src="https://github.com/user-attachments/assets/0478cad3-e12c-4196-9598-2ec9f7f79cc4" />
+
+* **Gráfico de Barras**
+  <img width="1914" height="893" alt="image" src="https://github.com/user-attachments/assets/adcbd792-4388-49c8-8f2b-0040c4aa218b" />
+
+* **Top 3 - Gráfico de Pizza**
+  <img width="1923" height="916" alt="image" src="https://github.com/user-attachments/assets/a2e9291a-90e4-4696-a88f-2381916f51a8" />
 
 ---
 
@@ -84,14 +89,6 @@ streamlite-linguagens/
 │── README.md           # Documentação
 │── .devcontainer/      # Configuração para Codespaces
 ```
-
----
-
-## 💡 Melhorias Futuras
-
-* [ ] Adicionar filtros por ano/mês (caso disponível na fonte).
-* [ ] Exportar dados para CSV/Excel.
-* [ ] Adicionar mais gráficos interativos (Plotly/Altair).
 
 ---
 
